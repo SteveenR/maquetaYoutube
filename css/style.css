@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+.caja1 {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+
+.container-fluid-star-bt {
+    padding: 1em;
+}
+
+.offcanvas-body {
+    display: initial;
+    
+    flex-grow: auto;
+    padding: 1em;
+    flex-basis: auto;
+    height: 560px !important;
+    
+}
+
+.form {
+padding-right: 10em;
+}
+
+.caja2 {
+    padding-top: 5em;
+    padding: 5em;
+    background-color: rgb(255, 255, 255);
+    
+   
+}
+.caja3 {
+    background-color: rgb(255, 255, 255);
+    padding-top: 7em;
+}
+.caja4 {
+    padding: 5em;
+    height: 9em;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.caja5 {
+    height: 9em;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+}
+
+.video {
+    padding: 1em;
+    width: auto;
+}
